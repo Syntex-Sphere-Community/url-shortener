@@ -4,7 +4,7 @@ A community repository. Each member adds their own URL shortener implementation 
 
 ## Implementations
 
-- [canary](canary) — Python, interactive CLI
-- [zatr1k](zatr1k) — C#
+- [canary](canary) — Python, CLI
+- [zatr1k](zatr1k) — C#, CLI
 
 Open a folder to see how to run that implementation.
